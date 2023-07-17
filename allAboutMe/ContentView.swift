@@ -12,7 +12,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Text("Harshini Siripurapu")
+            Text("✨Harshini Siripurapu✨")
                 .font(.largeTitle)
                 .fontWeight(.thin)
                 .multilineTextAlignment(.center)
